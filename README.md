@@ -1,4 +1,4 @@
-# Automated Pest Detection & Control using Embedded Systems
+# Automated Pest Detection using Embedded Systems
 
 ## Project Overview
 
@@ -17,11 +17,6 @@ Pest infestation is a major challenge for farmers. Over-reliance on pesticides n
 - **Real-time Pest Monitoring**: Farmers can receive alerts based on pest activity.
 - **Data Visualization**: The system displays real-time data on pest activity, allowing farmers to take timely actions.
 - **Sustainability**: By minimizing pesticide usage, the project promotes environmentally friendly agricultural practices.
-
-## Installation
-1. Clone the repository: https://github.com/YourUsername/IoT-PestDetection.git
-2. Install the necessary Arduino libraries for sensor integration.
-3. Upload the code to your Arduino Uno using the Arduino IDE.
 
 ## Usage
 - Connect the sensors to the Arduino board as per the provided circuit diagram.
