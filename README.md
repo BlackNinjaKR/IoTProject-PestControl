@@ -1,4 +1,4 @@
-# IoT-Based Pest Detection System
+# Automated Pest Detection & Control using Embedded Systems
 
 ## Project Overview
 
